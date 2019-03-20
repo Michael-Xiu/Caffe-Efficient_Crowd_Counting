@@ -27,6 +27,7 @@ MCNN contains three columns: **[MCNN_L]**, **[MCNN_M]**, **[MCNN_S]**
 
 
 ## Result
+
 .<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/result.png" width="600" height="282" /></div>
 
 
