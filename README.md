@@ -4,7 +4,7 @@ These codes are implementations of the popular efficient crowd counting models o
 
 ## Model list
 - <a name="FCN"></a> **[FCN]** Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP2017**) [[paper](https://arxiv.org/abs/1612.00220)] 
-.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/FCN.png" width="600" height="581" /></div>
+.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/FCN.png" width="450" height="436" /></div>
   
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)]
 .<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/MCNN.png" width="600" height="353" /></div>
@@ -24,3 +24,12 @@ MCNN contains three columns: **[MCNN_L]**, **[MCNN_M]**, **[MCNN_S]**
 
 - <a name="ACSCP"></a> **[ACSCP]**  Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Crowd_Counting_via_CVPR_2018_paper.pdf)]
 .<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/ACSCP.png" width="600" height="358" /></div>
+
+
+## Result
+.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/result.png" width="600" height="282" /></div>
+
+
+
+
+
