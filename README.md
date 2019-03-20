@@ -6,6 +6,6 @@ These codes are implementations of the popular efficient crowd counting models o
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)]
 
 ![](https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/MCNN.png)
-.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/MCNN.png" width="400" height="235" /></div>
+.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/MCNN.png" width="841" height="495" /></div>
 
 MCNN contains three columns: **[MCNNL]**, **[MCNNM]**, **[MCNNS]**
