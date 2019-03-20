@@ -19,7 +19,7 @@ MCNN contains three columns: **[MCNN_L]**, **[MCNN_M]**, **[MCNN_S]**
 - <a name="Switch-CNN"></a> **[Switch-CNN]** Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)]
 .<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/SwitchCNN.png" width="600" height="541" /></div>
 
-- <a name="CPCNN"></a> **[CPCNN]** Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV2017**) [[paper](https://arxiv.org/abs/1708.00953)]
+- <a name="CPCNN"></a> **[CP-CNN]** Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV2017**) [[paper](https://arxiv.org/abs/1708.00953)]
 .<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/CPCNN.png" width="528" height="219" /></div>
 
 - <a name="ACSCP"></a> **[ACSCP]**  Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Crowd_Counting_via_CVPR_2018_paper.pdf)]
@@ -27,8 +27,7 @@ MCNN contains three columns: **[MCNN_L]**, **[MCNN_M]**, **[MCNN_S]**
 
 
 ## Result
-
-.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/result.png" width="600" height="282" /></div>
+.<div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/result.PNG" width="600" height="282" /></div>
 
 
 
