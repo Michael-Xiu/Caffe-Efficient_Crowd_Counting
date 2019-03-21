@@ -8,7 +8,7 @@ These codes are implementations of the popular efficient crowd counting models o
   
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)].
 <div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/MCNN.png" width="600" height="353" /></div>
-</a>    MCNN contains three columns: **[MCNN_L]**, **[MCNN_M]**, **[MCNN_S]**
+MCNN contains three columns: **MCNN_L**, **MCNN_M**, **MCNN_S**
 
 - <a name="Zhang"></a> **[Zhang]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)].
 <div align=center><img src="https://github.com/Michael-Xiu/Caffe-Efficient_Crowd_counting/raw/master/model/Zhang.png" width="600" height="308" /></div>
